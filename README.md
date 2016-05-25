@@ -1,2 +1,3 @@
 # microfluidic-paper
-A collection of microfluidic related paper that I am interested and inspired.
+A collection of microfluidic related paper/tools that I am interested and inspired.
+Welcome to fork & star.
